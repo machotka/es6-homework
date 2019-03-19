@@ -20,3 +20,5 @@ Aplikace provolává public movie api (dokumentace viz. http://www.omdbapi.com),
 ## Bonusové úkoly:
 
 1. Zbavit se search buttonu a zobrazovat výsledky hledání na základě změny textu v search inputu (pozor: neprovolávat search endpoint zbytečně po stisku každé klávesy, počkat na "utichnutí" uživatelského vstupu).
+2. Přepsat service funkce a jejich volání pomocí async/await (nevyužívat promise resolve/reject handlery).
+
